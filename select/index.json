@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "BE THERE",
+  "base_artist": "B'z",
+  "createdAt": "2026-03-05T06:59:44.404063Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Guess You Had To Be There",
+      "artist": "Craig Morgan",
+      "has_synced": false,
+      "path": "select/01_I_Guess_You_Had_To_Be_There_Craig_Morgan.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Will Be There",
+      "artist": "Dan Seals",
+      "has_synced": true,
+      "path": "select/02_I_Will_Be_There_Dan_Seals.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Be There",
+      "artist": "Mariah Carey feat. Trey Lorenz",
+      "has_synced": true,
+      "path": "select/03_I'll_Be_There_Mariah_Carey_feat._Trey_Lorenz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Be There (Feat. Trey Lorenz) (MTV Unplugged Version)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/04_I'll_Be_There_(Feat._Trey_Lorenz)_(MTV_Unplugged_Version)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Will You Be There (Instrumental)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Will_You_Be_There_(Instrumental)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Will You Be There",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_Will_You_Be_There_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nobody Else Will Be There",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/07_Nobody_Else_Will_Be_There_The_National.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Be There",
+      "artist": "Tevin Campbell",
+      "has_synced": true,
+      "path": "select/08_I'll_Be_There_Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Be There",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/09_Be_There_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Be There",
+      "artist": "U.N.K.L.E.",
+      "has_synced": true,
+      "path": "select/10_Be_There_U.N.K.L.E..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Be There",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/11_Be_There_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Be There (Kza & Kent remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/12_Be_There_(Kza_&_Kent_remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Be There (Kza & Kent Remix)",
+      "artist": "U.N.K.L.E.",
+      "has_synced": false,
+      "path": "select/13_Be_There_(Kza_&_Kent_Remix)_U.N.K.L.E..txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Be There (Underdog remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/14_Be_There_(Underdog_remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Be There (Underdog Remix)",
+      "artist": "U.N.K.L.E.",
+      "has_synced": false,
+      "path": "select/15_Be_There_(Underdog_Remix)_U.N.K.L.E..txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "If I Don't Be There By Morning",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/16_If_I_Don't_Be_There_By_Morning_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "If I Don't Be There By Morning (Live)",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/17_If_I_Don't_Be_There_By_Morning_(Live)_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'll Be There for You",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/18_I'll_Be_There_for_You_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Got to Be There (Single Version)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/19_Got_to_Be_There_(Single_Version)_Michael_Jackson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BE THERE",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_BE_THERE_B'z.txt"
+    }
+  ]
+}
